@@ -1,1 +1,1 @@
-today is wednesday
+Today is wednesday
